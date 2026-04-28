@@ -1,16 +1,133 @@
-# React + Vite
+# SupplyMesh-X AI™
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Autonomous Intelligence for Resilient Supply Chains
 
-Currently, two official plugins are available:
+SupplyMesh-X AI™ is an AI-powered smart logistics platform designed to help businesses predict disruptions, optimize delivery routes, protect MSME cashflow, and respond faster to real-world uncertainties.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built for **Solution Challenge 2026 India**.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Problem Statement
 
-## Expanding the ESLint configuration
+Modern supply chains face delays caused by:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Weather disruptions
+- Traffic congestion
+- Port blockages
+- Poor shipment visibility
+- Vendor communication gaps
+- MSME cashflow losses due to delayed payments
+
+Most systems react too late.
+
+---
+
+## Our Solution
+
+SupplyMesh-X AI™ transforms traditional logistics into a proactive self-healing network using:
+
+- Google Gemini AI for disruption reasoning
+- Firebase real-time cloud infrastructure
+- AI route recovery engine
+- Voice AI command center
+- MSME cashflow intelligence
+- Sustainability-aware logistics decisions
+
+---
+
+## Core Features
+
+### Autonomous Crisis Mode
+Simulates cyclone, port strike, and route failures with AI recovery actions.
+
+### Gemini AI Scenario Center
+Ask:
+
+> What if Mumbai rainfall increases tomorrow?
+
+Get live disruption analysis.
+
+### Smart Route Recovery
+Recommends optimized alternate logistics corridors.
+
+### MSME Cashflow Intelligence
+Predicts delayed payments and working capital risk.
+
+### Live Alerts Engine
+Instant vendor and partner notifications.
+
+### Carbon-Aware Routing
+Balances speed, cost, and sustainability.
+
+### Export AI Reports
+Download PDF recovery summaries.
+
+---
+
+## Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Framer Motion
+- Recharts
+
+### Cloud & Backend
+- Firebase Hosting
+- Firestore Database
+- Firebase Authentication
+
+### AI
+- Google Gemini AI
+
+### Utilities
+- jsPDF
+- Web Speech API
+
+---
+
+## Live Prototype
+
+👉 https://YOUR_FIREBASE_LINK.web.app
+
+---
+
+## Demo Video
+
+👉 Add YouTube / Drive link here
+
+---
+
+## Screenshots
+
+Add dashboard screenshots here.
+
+---
+
+## Future Roadmap
+
+- IoT GPS container tracking
+- ERP integrations
+- MSME financing intelligence
+- Supplier risk engine
+- Healthcare logistics optimization
+- Global supply chain deployment
+
+---
+
+## Impact Vision
+
+SupplyMesh-X AI™ aims to reduce delays, cut logistics losses, improve sustainability, and empower MSMEs with enterprise-grade AI tools.
+
+---
+
+## Team
+
+**Team Leader:** Mrigank Jaiswal
+
+---
+
+## License
+
+MIT License
