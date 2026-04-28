@@ -89,7 +89,7 @@ Download PDF recovery summaries.
 
 ## Live Prototype
 
-👉 https://YOUR_FIREBASE_LINK.web.app
+👉 https://supplymesh-x-ai.web.app/
 
 ---
 
